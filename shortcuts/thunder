@@ -1,0 +1,5 @@
+#!/bin/bash
+user=$(whoami)
+sudo mount -B  ~/Downloads/TDDOWNLOADS /media/$user/TDDOWNLOADS
+~/apps/xware/portal
+google-chrome yuancheng.xunlei.com
