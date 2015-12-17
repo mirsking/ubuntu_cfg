@@ -11,5 +11,4 @@ shortcuts for apps, run scripts in once_cfg to install it to bin directory
 1. qtcreator
 2. xware: web thunder
 3. jdk8u60
-
-
+4. JetBrain keyGen
